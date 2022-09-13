@@ -26,5 +26,4 @@ pip3 install requirements.txt
 ```
 
 ### License
-This project is licensed under the [MIT License]([https://www.mdpi.com/2223-7747/9/9/1239](https://github.com/ariunzayag/seed_classification/blob/main/LICENSE)) 
-- see the LICENSE file for details.
+This project is licensed under the [MIT License](https://www.mdpi.com/2223-7747/9/9/1239](https://github.com/ariunzayag/seed_classification/blob/main/LICENSE) - see the LICENSE file for details.
