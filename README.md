@@ -14,10 +14,14 @@ The project consists of two phases:
 
 ## Installation
 The code hosted at https://github.com/ariunzayag/seed_classification
-`git clobne https://github.com/ariunzayag/seed_classification.git
-cd src`
-#### To dependencies
-`pip3 install requirements.txt`
+```
+- git clobne https://github.com/ariunzayag/seed_classification.git
+- cd src
+```
+### To dependencies
+```
+pip3 install requirements.txt
+```
 
 ### License
- [MIT License]([https://www.mdpi.com/2223-7747/9/9/1239](https://github.com/ariunzayag/seed_classification/blob/main/LICENSE)).
+This project is licensed under the [MIT License]([https://www.mdpi.com/2223-7747/9/9/1239](https://github.com/ariunzayag/seed_classification/blob/main/LICENSE))  - see the LICENSE file for details.
