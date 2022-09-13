@@ -14,10 +14,10 @@ The project consists of two phases:
 
 ## Installation
 The code hosted at https://github.com/ariunzayag/seed_classification
-1. `#RRGGBB git clobne https://github.com/ariunzayag/seed_classification.git`
-2. cd src
+`git clobne https://github.com/ariunzayag/seed_classification.git
+cd src`
 #### To dependencies
-pip3 install requirements.txt
+`pip3 install requirements.txt`
 
 ### License
  [MIT License]([https://www.mdpi.com/2223-7747/9/9/1239](https://github.com/ariunzayag/seed_classification/blob/main/LICENSE)).
