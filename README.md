@@ -17,7 +17,7 @@ Datasets are available at [here](https://www.mdpi.com/2223-7747/9/9/1239)
 ## Installation
 The code hosted at [https://github.com/ariunzayag/seed_classification](https://github.com/ariunzayag/seed_classification)
 ```
-- git clobne https://github.com/ariunzayag/seed_classification.git
+- git clone https://github.com/ariunzayag/seed_classification.git
 - cd src
 ```
 ### To dependencies
